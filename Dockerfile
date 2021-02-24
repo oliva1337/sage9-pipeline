@@ -1,4 +1,4 @@
-FROM php:7.2
+FROM php:7.3
 
 MAINTAINER Lucas Ramos <lramos@studiovisual.com.br>
 
